@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - name: nginx
+      - name: saikiran2233/myrepo:L1
         image: nginx:latest
         ports:
         - containerPort: 80
